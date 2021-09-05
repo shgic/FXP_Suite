@@ -1,4 +1,4 @@
-﻿![FXP_Suite](FXP_Suite.jpg)
+![FXP_Suite](FXP_Suite.jpg)
 
 ## FXP_Suite是什么?
 一个在OSX平台上运行的打印机套件（本套件不支持`Windows`）
@@ -21,7 +21,7 @@
 * FXP_Suite 也可以提供`定制化版本`（联系我们 [business@shgic.com](mailto:business@shgic.com)）
 
 ## 下载地址
-[FXP_Suite](https://gitee.com/shgic/FXP_Suite/tags)
+[FXP_Suite](https://github.com/shgic/FXP_Suite/releases)
 
 ## 问题反馈
 在使用中有任何问题，欢迎反馈给我们，可以用以下联系方式跟我们交流
